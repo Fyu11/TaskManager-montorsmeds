@@ -1,0 +1,20 @@
+--------------------- SPECIFICHE ---------------------
+----------- GIULIO SMEDILE & SILVIA MONTORSELLI ----------
+------------------------------------------------------
+
+CASI D'USO
+- Ogni utente può usare il Sistema per registrarsi
+- Ogni utente può usare il Sistema per effettuare il login e il logout
+- Ogni utente può usare il Sistema per visualizzare e aggiornare i propri dettagli
+- Ogni amministratore del sistema può visualizzare e cancellare tutti gli utenti
+- Ogni amministratore del sistema può visualizzare e cancellare tutti i progetti
+- Ogni utente può creare nuovi progetti
+- Ogni utente può condividere i propri progetti con altri utenti registrati
+- Ogni utente può visualizzare i propri progetti e quelli che quelli condivisi con lui
+- Ogni utente può cancellare i progetti che possiede
+- Ogni utente può aggiungere tag a progetti che possiede
+- Ogni utente può aggiungere task a progetti che possiede
+- Ogni utente può aggiornare e cancellare ogni task dei progetti che possiede
+- Ogni utente può assegnare le task di cui è proprietario a ogni altro utente che ha visibilità sul progetto
+- Ogni utente può aggiungere una tag tra quelle presenti nel progetto ad ogni task che possiede
+- Ogni utente può aggiungere un commento su ogni task di ogni progetto di cui ha visibilità
